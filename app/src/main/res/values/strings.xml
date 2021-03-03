@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">
+        <font size = "25">Fall Detection Application</font>
+    </string>
+    <string name="action_settings">
+          <font size = "18">Settings</font>
+    </string>
+    <string name="set_phone_name_warning">Please provide a companion phone number</string>
+    <string name="ok">OK</string>
+    <string name="action">action</string>
+
+</resources>
